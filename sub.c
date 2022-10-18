@@ -1,5 +1,5 @@
 extern int all_files;
- void sub(void)
+void sub(void)
  {
  	all_files = 10;
  }
